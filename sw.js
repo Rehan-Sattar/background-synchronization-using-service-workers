@@ -25,3 +25,12 @@ function getAllLocalizedData() {
     };
   });
 }
+
+// Fetch request
+// fetch('https://www.mocky.io/v2/5c0452da3300005100d01d1f', {
+//   method: 'POST',
+//   body: JSON.stringify(response),
+//   headers: {
+//     'Content-Type': 'application/json'
+//   }
+// });
